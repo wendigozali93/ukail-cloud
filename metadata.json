@@ -1,0 +1,6 @@
+{
+  "name": "UKAIL Teacher Assistant",
+  "description": "Sistem ERP asisten guru terpadu (Unified Knowledge & AI Learning Assistant - UKAIL) yang mengintegrasikan basis data siswa, presensi harian, analisis asesmen kelas, penulisan deskripsi raport otomatis bertenaga Gemini AI, dan eksplorasi modul VBA Macro Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
